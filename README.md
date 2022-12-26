@@ -19,8 +19,7 @@
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
-> **Note**: Please install a code visual tool first such as Visual Studio Code as it will help you set up this bot within 4 minutes
-> Please do not use sniping bots that offer .exe files as these are 99% scams
+> **Note**: IF THERE ARE ANY ISSUES USE THE MOST RECENT VERSION: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot
 ## 📦 Install
 
 ```bash
