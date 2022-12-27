@@ -2,6 +2,7 @@
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
   <h2>Uniswap, Pancakeswap, Raydium, Trader Joe, Sushiswap, Quickswap and more</h2>
+  <h3>NEW VERSION HERE, NOW WITH GUI!: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</h3>
   <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
@@ -19,7 +20,7 @@
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
-> **Note**: IF THERE ARE ANY ISSUES USE THE MOST RECENT VERSION: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot
+
 ## 📦 Install
 
 ```bash
