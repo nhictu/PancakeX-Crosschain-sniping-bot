@@ -1,7 +1,7 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
-  <h2>Uniswap, Pancakeswap, Raydium, Trader Joe, Sushiswap, Quickswap and more</h2>
+  <h2>Uniswap, Pancakeswap, Trader Joe, Sushiswap, Quickswap and more</h2>
   <h3>NEW VERSION HERE, NOW WITH GUI!: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</h3>
   <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
   
