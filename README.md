@@ -1,9 +1,12 @@
 <div align="center">
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
-  <h2>Uniswap, Pancakeswap, Trader Joe, Sushiswap, Quickswap and more</h2>
-  <h3>NEW VERSION HERE, NOW WITH GUI!: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</h3>
-  <p>Snipe New Tokens on all Dexes within 1 millisecond</p>
+  <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
+  <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
+  
+  
+  <p>My own AVAX Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-AVAX-Sniping-Bot</p>
+  <p>One of my backers made a POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
   
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
@@ -11,24 +14,26 @@
   
 </div>
 
+![Code preview](gui.png)
 
 ## 🚀 Features
 
 - 💌 Auto approve
-- ⏰ Buy early token gems with custom gas fee, slippage, amount. (DYOR)
+- DARK MODE
+- ⏰ Buy early token gems with custom gas fee, slippage, amount. Bot waits for liquidity (DYOR)
 - 🌏 Sell tokens with your custom increase in price, like 50%, 100%, 200%.
+- 💸 Contains Stop loss, Trailing Stop loss (for maximum profits) and more. Set TP% (Take profit %) to 120% for 20% gain, 100% is the base so 0x, 200% is 1x on your investment
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
-
+> **Note**: Please install a code visual tool first such as Visual Studio Code as it will help you set up this bot within 4 minutes
+> Please do not use sniping bots that offer .exe files as these are 99% scams
 ## 📦 Install
 
 ```bash
-1. Download nodejs for your PC from nodejs org
-2. Open the folder in Visual Studio Code and in the terminal type "npm install"
-3. Set the variables in "Variables" at the top of sniper.js
-4. Run with "node sniper.js" command in the same terminal
-5. Stop bot with Ctrl + C.
+1. Download python3+ for your PC from python org
+2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
+3. In the same terminal type "python3 astra.py"
 ```
 ## 💎 Successfull 40,000k snipe the other day :)
 
@@ -55,6 +60,7 @@ Detailed changes for each release:
 #### • Version v2.3 [fixed minor bugs] - 4 weeks ago
 #### • Version v2.4 [minor changes] - 3 weeks ago
 #### • Version v3 [global changes, added new functions, log inside the terminal, CROSSCHAIN support] - 1 week ago
+#### • Version v3 [ADDED DARK MODE] - 2 days ago
 
 ## 🔑 License
 
