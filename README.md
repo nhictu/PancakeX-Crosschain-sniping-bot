@@ -5,11 +5,16 @@
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
   
   
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
+</p>
+  
   <p>My own AVAX Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-AVAX-Sniping-Bot</p>
   <p>One of my backers made a POLYGON version! much love: https://github.com/Blockys69/POLY-X-Polygon-Sniping-Bot</p>
   <p>One of my backers made an ETH sniping bot: https://github.com/Blockys69/Ethereum-Sniping-Bot-ETHX</p>
-  
-  [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
+
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
   
