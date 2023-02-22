@@ -21,7 +21,7 @@
   
 </div>
 
-![Code preview](gui.png)
+![Code preview](defixinfographic.png)
 
 ## 🚀 Features
 
